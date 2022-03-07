@@ -9,3 +9,4 @@
 | 4-lastlines | This script displays the last 10 lines of file "/etc/passwd"|
 | 5-firstlines | This script displays the first 10 lines of file "/etc/passwd" |
 | 6-third_line | This script displays the thrid line of a file iacta and it is in the working directory |
+| 7-file | Creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the test Holberton School ending by a new line |
