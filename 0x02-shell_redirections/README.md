@@ -10,3 +10,5 @@
 | 5-firstlines | This script displays the first 10 lines of file "/etc/passwd" |
 | 6-third_line | This script displays the thrid line of a file iacta and it is in the working directory |
 | 7-file | Creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the test Holberton School ending by a new line |
+| 8-cwd_state | Writes into the file ls_cwd_content the result of the command ls -la. |
+| 9-duplicate_last_line |This script Duplicates the last line of the file iacta | 10-no_more_js | Deletes all the regular files with a .js extension that are present in the current directory and all its subfolders |
